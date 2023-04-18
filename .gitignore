@@ -1,3 +1,6 @@
 tmp/
 img/NeuroStartUp.png_backup
 index.html_old
+.DS_Store
+img/.DS_Store
+img/Thumbs.db
